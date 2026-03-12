@@ -32,3 +32,6 @@ out/
 *.log
 coverage/
 .nyc_output/
+
+# Zip files
+*.zip
