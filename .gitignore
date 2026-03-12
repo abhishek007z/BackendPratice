@@ -35,3 +35,8 @@ coverage/
 
 # Zip files
 *.zip
+
+# Extracted folders - Keep local only
+New folder (2)/
+Abhishek Pandey/
+Abhishek-Pandey/
